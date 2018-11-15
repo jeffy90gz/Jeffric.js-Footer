@@ -1,0 +1,26 @@
+{
+  "name": "jeffric.js-footer",
+  "version": "0.1.0",
+  "description": "this module allows for a dynamic footer to be generated fo JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffy90gz/Jeffric.js-Footer.git"
+  },
+  "keywords": [
+    "Footer"
+  ],
+  "author": "Jeffersonking Anyanwu <youngdope.jk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffy90gz/Jeffric.js-Footer/issues"
+  },
+  "homepage": "https://github.com/jeffy90gz/Jeffric.js-Footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {}
+}
